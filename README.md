@@ -4,7 +4,7 @@
 * TA2 - Pisca LED com botão de controle
 * TA3 - Soma 2 no valor de entrada
 * TA4 - Incremento e Decremento
-* TA6 - Controle de uma lâmpada com três interruptores
+* TA5 - Controle de uma lâmpada com três interruptores
 
 
 -------------------
