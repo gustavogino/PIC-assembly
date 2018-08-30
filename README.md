@@ -7,7 +7,8 @@
 * TA5 - Controle de uma lâmpada com três interruptores
 -------------------
 
-<b>- ".asm" é o código em assembly para edição<br>
+<b>
+  * ".asm" é o código em assembly para edição<br>
   - ".hex" é o código compilado, pronto para execução no PIC16F877A.<br>
   - ".pdsprj" é a simulação no Proteus, para teste.</b>
 
