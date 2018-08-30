@@ -9,8 +9,9 @@
 
 <b>
   * ".asm" é o código em assembly para edição<br>
-  - ".hex" é o código compilado, pronto para execução no PIC16F877A.<br>
-  - ".pdsprj" é a simulação no Proteus, para teste.</b>
+  * ".hex" é o código compilado, pronto para execução no PIC16F877A.<br>
+  * ".pdsprj" é a simulação no Proteus, para teste.
+</b>
 
 -------------------
 Gustavo Gino Scotton    |   Engenharia da Computação - UFSC   |   gustavo.gino@outlook.com
